@@ -1,0 +1,17 @@
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.Business.deps.json
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.Business.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.Business.pdb
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\ProyectoDemo.Business.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\refint\ProyectoDemo.Business.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\ProyectoDemo.Business.pdb
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\ref\ProyectoDemo.Business.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.DAL.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.DTO.dll
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.DAL.pdb
+C:\Users\migue\source\repos\ProyectoDemo\Business\bin\Debug\net8.0\ProyectoDemo.DTO.pdb
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ProyectoDemo\Business\obj\Debug\net8.0\Business.csproj.Up2Date

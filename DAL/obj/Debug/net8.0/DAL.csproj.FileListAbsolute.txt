@@ -1,0 +1,15 @@
+C:\Users\migue\source\repos\ProyectoDemo\DAL\bin\Debug\net8.0\ProyectoDemo.DAL.deps.json
+C:\Users\migue\source\repos\ProyectoDemo\DAL\bin\Debug\net8.0\ProyectoDemo.DAL.dll
+C:\Users\migue\source\repos\ProyectoDemo\DAL\bin\Debug\net8.0\ProyectoDemo.DAL.pdb
+C:\Users\migue\source\repos\ProyectoDemo\DAL\bin\Debug\net8.0\ProyectoDemo.DTO.dll
+C:\Users\migue\source\repos\ProyectoDemo\DAL\bin\Debug\net8.0\ProyectoDemo.DTO.pdb
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\ProyectoDemo.DAL.dll
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\refint\ProyectoDemo.DAL.dll
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\ProyectoDemo.DAL.pdb
+C:\Users\migue\source\repos\ProyectoDemo\DAL\obj\Debug\net8.0\ref\ProyectoDemo.DAL.dll

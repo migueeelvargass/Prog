@@ -1,0 +1,11 @@
+C:\Users\migue\source\repos\ProyectoDemo\DTO\bin\Debug\net8.0\ProyectoDemo.DTO.deps.json
+C:\Users\migue\source\repos\ProyectoDemo\DTO\bin\Debug\net8.0\ProyectoDemo.DTO.dll
+C:\Users\migue\source\repos\ProyectoDemo\DTO\bin\Debug\net8.0\ProyectoDemo.DTO.pdb
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\ProyectoDemo.DTO.dll
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\refint\ProyectoDemo.DTO.dll
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\ProyectoDemo.DTO.pdb
+C:\Users\migue\source\repos\ProyectoDemo\DTO\obj\Debug\net8.0\ref\ProyectoDemo.DTO.dll
